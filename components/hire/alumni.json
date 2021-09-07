@@ -1024,5 +1024,35 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "20-02-2021"
+  },
+  {
+    "id": 44,
+    "roles": [
+      "alumni"
+    ],
+    "name": "Kavya Konuganti",
+    "email": "kavyareddy.732@gmail.com",
+    "photo": "/static/alumni/photos/kavya.jpg",
+    "pdfCV": "/static/alumni/cv/kavya.pdf",
+    "github": "https://github.com/KavyaReddy732",
+    "linkedin": "https://www.linkedin.com/in/kavyakonuganti",
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Micrsoft Graph Api",
+      "FireBase",
+      "KnexJS",
+      "Express.js",
+      "Git",
+      "StoryBook"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "03-03-2021",
+    "lastUpdateDate": "07-09-2021"
   }
 ]
